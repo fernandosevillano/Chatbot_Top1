@@ -1,0 +1,1752 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '51947359622@s.whatsapp.net',
+    fromMe: false,
+    id: 'C27CC1B721A4F38237',
+    participant: undefined
+  },
+  messageTimestamp: 1725394701,
+  pushName: 'Fernando Sevillano',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'hola', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '51947359622'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f03b5c37-e52b-4c15-811e-8d02f970d5f2',
+  keyword: 'key_d17c9a5d-7d6c-4754-bacf-7327c6dd990e',
+  answer: '🙌 ¡Hola! Bienvenido a TOP 1 MATERIAL PUCP💯👌.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 500,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '384beaa082ef79a01f010733f5970d77'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_58301049-cde3-42ac-9d0c-87f5c64c65e2',
+  keyword: 'ans_f03b5c37-e52b-4c15-811e-8d02f970d5f2',
+  answer: 'Te comparto las siguientes opciones:\n' +
+    '👉 *Precio* para conocer nuestras promociones\n' +
+    '👉 *Yape* para saber el número de pago\n' +
+    '👉 *Finalizar* para completar tu compra',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 500,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ca5f551f261b4c5e36eb4ae2ccee1873'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51947359622@s.whatsapp.net',
+    fromMe: false,
+    id: '83D21E1C9201F90902',
+    participant: undefined
+  },
+  messageTimestamp: 1725394705,
+  pushName: 'Fernando Sevillano',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'Precio', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Precio',
+  from: '51947359622'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_69d06790-11ca-4a19-80df-f61328273cbf',
+  keyword: 'ans_58301049-cde3-42ac-9d0c-87f5c64c65e2',
+  answer: 'Nota: Por favor, utiliza solo las palabras clave mencionadas. Si necesitas más ayuda, comunícate con nosotros al +51 947 359 622.\n' +
+    '\n' +
+    'Si deseas volver al menú principal, escribe *menu* después de seleccionar una opción.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1000,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c9de6be1e71056741f5082e06df9e84c'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51947359622@s.whatsapp.net',
+    fromMe: false,
+    id: '7F83F1AA2CBD8FCBAF',
+    participant: undefined
+  },
+  messageTimestamp: 1725394708,
+  pushName: 'Fernando Sevillano',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'menu', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'menu',
+  from: '51947359622'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f03b5c37-e52b-4c15-811e-8d02f970d5f2',
+  keyword: 'key_d17c9a5d-7d6c-4754-bacf-7327c6dd990e',
+  answer: '🙌 ¡Hola! Bienvenido a TOP 1 MATERIAL PUCP💯👌.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 500,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '384beaa082ef79a01f010733f5970d77'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_58301049-cde3-42ac-9d0c-87f5c64c65e2',
+  keyword: 'ans_f03b5c37-e52b-4c15-811e-8d02f970d5f2',
+  answer: 'Te comparto las siguientes opciones:\n' +
+    '👉 *Precio* para conocer nuestras promociones\n' +
+    '👉 *Yape* para saber el número de pago\n' +
+    '👉 *Finalizar* para completar tu compra',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 500,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ca5f551f261b4c5e36eb4ae2ccee1873'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51947359622@s.whatsapp.net',
+    fromMe: false,
+    id: 'FF4BAF545CB39C2E57',
+    participant: undefined
+  },
+  messageTimestamp: 1725394715,
+  pushName: 'Fernando Sevillano',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'Sexo', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Sexo',
+  from: '51947359622'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_69d06790-11ca-4a19-80df-f61328273cbf',
+  keyword: 'ans_58301049-cde3-42ac-9d0c-87f5c64c65e2',
+  answer: 'Nota: Por favor, utiliza solo las palabras clave mencionadas. Si necesitas más ayuda, comunícate con nosotros al +51 947 359 622.\n' +
+    '\n' +
+    'Si deseas volver al menú principal, escribe *menu* después de seleccionar una opción.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1000,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c9de6be1e71056741f5082e06df9e84c'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51947359622@s.whatsapp.net',
+    fromMe: false,
+    id: '144D97A35F9DE9DE3D',
+    participant: undefined
+  },
+  messageTimestamp: 1725394722,
+  pushName: 'Fernando Sevillano',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'Sexo', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Sexo',
+  from: '51947359622'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f03b5c37-e52b-4c15-811e-8d02f970d5f2',
+  keyword: 'key_d17c9a5d-7d6c-4754-bacf-7327c6dd990e',
+  answer: '🙌 ¡Hola! Bienvenido a TOP 1 MATERIAL PUCP💯👌.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 500,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '384beaa082ef79a01f010733f5970d77'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_58301049-cde3-42ac-9d0c-87f5c64c65e2',
+  keyword: 'ans_f03b5c37-e52b-4c15-811e-8d02f970d5f2',
+  answer: 'Te comparto las siguientes opciones:\n' +
+    '👉 *Precio* para conocer nuestras promociones\n' +
+    '👉 *Yape* para saber el número de pago\n' +
+    '👉 *Finalizar* para completar tu compra',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 500,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ca5f551f261b4c5e36eb4ae2ccee1873'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51921909749@s.whatsapp.net',
+    fromMe: false,
+    id: '3A989C55169EBD5FA18A',
+    participant: undefined
+  },
+  messageTimestamp: 1725394806,
+  pushName: 'cam rebata',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'hola', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '51921909749'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f03b5c37-e52b-4c15-811e-8d02f970d5f2',
+  keyword: 'key_d17c9a5d-7d6c-4754-bacf-7327c6dd990e',
+  answer: '🙌 ¡Hola! Bienvenido a TOP 1 MATERIAL PUCP💯👌.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 500,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '384beaa082ef79a01f010733f5970d77'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_58301049-cde3-42ac-9d0c-87f5c64c65e2',
+  keyword: 'ans_f03b5c37-e52b-4c15-811e-8d02f970d5f2',
+  answer: 'Te comparto las siguientes opciones:\n' +
+    '👉 *Precio* para conocer nuestras promociones\n' +
+    '👉 *Yape* para saber el número de pago\n' +
+    '👉 *Finalizar* para completar tu compra',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 500,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ca5f551f261b4c5e36eb4ae2ccee1873'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51921909749@s.whatsapp.net',
+    fromMe: false,
+    id: '3A1DA645B882654FF8A0',
+    participant: undefined
+  },
+  messageTimestamp: 1725394815,
+  pushName: 'cam rebata',
+  broadcast: false,
+  message: Message {
+    conversation: 'Precio',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Precio',
+  from: '51921909749'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_69d06790-11ca-4a19-80df-f61328273cbf',
+  keyword: 'ans_58301049-cde3-42ac-9d0c-87f5c64c65e2',
+  answer: 'Nota: Por favor, utiliza solo las palabras clave mencionadas. Si necesitas más ayuda, comunícate con nosotros al +51 947 359 622.\n' +
+    '\n' +
+    'Si deseas volver al menú principal, escribe *menu* después de seleccionar una opción.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1000,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c9de6be1e71056741f5082e06df9e84c'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51921909749@s.whatsapp.net',
+    fromMe: false,
+    id: '3A04865CF2C7D721B84D',
+    participant: undefined
+  },
+  messageTimestamp: 1725394840,
+  pushName: 'cam rebata',
+  broadcast: false,
+  message: Message {
+    conversation: 'Yape',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Yape',
+  from: '51921909749'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f03b5c37-e52b-4c15-811e-8d02f970d5f2',
+  keyword: 'key_d17c9a5d-7d6c-4754-bacf-7327c6dd990e',
+  answer: '🙌 ¡Hola! Bienvenido a TOP 1 MATERIAL PUCP💯👌.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 500,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '384beaa082ef79a01f010733f5970d77'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_58301049-cde3-42ac-9d0c-87f5c64c65e2',
+  keyword: 'ans_f03b5c37-e52b-4c15-811e-8d02f970d5f2',
+  answer: 'Te comparto las siguientes opciones:\n' +
+    '👉 *Precio* para conocer nuestras promociones\n' +
+    '👉 *Yape* para saber el número de pago\n' +
+    '👉 *Finalizar* para completar tu compra',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 500,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ca5f551f261b4c5e36eb4ae2ccee1873'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51921909749@s.whatsapp.net',
+    fromMe: false,
+    id: '3A61E3934946FC28BEE5',
+    participant: undefined
+  },
+  messageTimestamp: 1725394849,
+  pushName: 'cam rebata',
+  broadcast: false,
+  message: Message {
+    conversation: 'menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'menu',
+  from: '51921909749'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_69d06790-11ca-4a19-80df-f61328273cbf',
+  keyword: 'ans_58301049-cde3-42ac-9d0c-87f5c64c65e2',
+  answer: 'Nota: Por favor, utiliza solo las palabras clave mencionadas. Si necesitas más ayuda, comunícate con nosotros al +51 947 359 622.\n' +
+    '\n' +
+    'Si deseas volver al menú principal, escribe *menu* después de seleccionar una opción.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1000,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c9de6be1e71056741f5082e06df9e84c'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51921909749@s.whatsapp.net',
+    fromMe: false,
+    id: '3A1243C229769BA02D51',
+    participant: undefined
+  },
+  messageTimestamp: 1725394857,
+  pushName: 'cam rebata',
+  broadcast: false,
+  message: Message {
+    conversation: 'Finalizar',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Finalizar',
+  from: '51921909749'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f03b5c37-e52b-4c15-811e-8d02f970d5f2',
+  keyword: 'key_d17c9a5d-7d6c-4754-bacf-7327c6dd990e',
+  answer: '🙌 ¡Hola! Bienvenido a TOP 1 MATERIAL PUCP💯👌.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 500,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '384beaa082ef79a01f010733f5970d77'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_58301049-cde3-42ac-9d0c-87f5c64c65e2',
+  keyword: 'ans_f03b5c37-e52b-4c15-811e-8d02f970d5f2',
+  answer: 'Te comparto las siguientes opciones:\n' +
+    '👉 *Precio* para conocer nuestras promociones\n' +
+    '👉 *Yape* para saber el número de pago\n' +
+    '👉 *Finalizar* para completar tu compra',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 500,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ca5f551f261b4c5e36eb4ae2ccee1873'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51921909749@s.whatsapp.net',
+    fromMe: false,
+    id: '3AD8A96DDF1872C4820E',
+    participant: undefined
+  },
+  messageTimestamp: 1725394881,
+  pushName: 'cam rebata',
+  broadcast: false,
+  message: Message {
+    conversation: 'Precio',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Precio',
+  from: '51921909749'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_69d06790-11ca-4a19-80df-f61328273cbf',
+  keyword: 'ans_58301049-cde3-42ac-9d0c-87f5c64c65e2',
+  answer: 'Nota: Por favor, utiliza solo las palabras clave mencionadas. Si necesitas más ayuda, comunícate con nosotros al +51 947 359 622.\n' +
+    '\n' +
+    'Si deseas volver al menú principal, escribe *menu* después de seleccionar una opción.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1000,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c9de6be1e71056741f5082e06df9e84c'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51921909749@s.whatsapp.net',
+    fromMe: false,
+    id: '3A2B1E57B64991F892FD',
+    participant: undefined
+  },
+  messageTimestamp: 1725394896,
+  pushName: 'cam rebata',
+  broadcast: false,
+  message: Message {
+    conversation: 'menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'menu',
+  from: '51921909749'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f03b5c37-e52b-4c15-811e-8d02f970d5f2',
+  keyword: 'key_d17c9a5d-7d6c-4754-bacf-7327c6dd990e',
+  answer: '🙌 ¡Hola! Bienvenido a TOP 1 MATERIAL PUCP💯👌.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 500,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '384beaa082ef79a01f010733f5970d77'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_58301049-cde3-42ac-9d0c-87f5c64c65e2',
+  keyword: 'ans_f03b5c37-e52b-4c15-811e-8d02f970d5f2',
+  answer: 'Te comparto las siguientes opciones:\n' +
+    '👉 *Precio* para conocer nuestras promociones\n' +
+    '👉 *Yape* para saber el número de pago\n' +
+    '👉 *Finalizar* para completar tu compra',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 500,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ca5f551f261b4c5e36eb4ae2ccee1873'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51921909749@s.whatsapp.net',
+    fromMe: false,
+    id: '3A815D9A2F58DAB416B8',
+    participant: undefined
+  },
+  messageTimestamp: 1725394909,
+  pushName: 'cam rebata',
+  broadcast: false,
+  message: Message {
+    conversation: 'Finalizar',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Finalizar',
+  from: '51921909749'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_69d06790-11ca-4a19-80df-f61328273cbf',
+  keyword: 'ans_58301049-cde3-42ac-9d0c-87f5c64c65e2',
+  answer: 'Nota: Por favor, utiliza solo las palabras clave mencionadas. Si necesitas más ayuda, comunícate con nosotros al +51 947 359 622.\n' +
+    '\n' +
+    'Si deseas volver al menú principal, escribe *menu* después de seleccionar una opción.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1000,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c9de6be1e71056741f5082e06df9e84c'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51921909749@s.whatsapp.net',
+    fromMe: false,
+    id: '3A23A8AD4A131278B214',
+    participant: undefined
+  },
+  messageTimestamp: 1725394922,
+  pushName: 'cam rebata',
+  broadcast: false,
+  message: Message {
+    conversation: 'viva el coito',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'viva el coito',
+  from: '51921909749'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f03b5c37-e52b-4c15-811e-8d02f970d5f2',
+  keyword: 'key_d17c9a5d-7d6c-4754-bacf-7327c6dd990e',
+  answer: '🙌 ¡Hola! Bienvenido a TOP 1 MATERIAL PUCP💯👌.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 500,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '384beaa082ef79a01f010733f5970d77'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_58301049-cde3-42ac-9d0c-87f5c64c65e2',
+  keyword: 'ans_f03b5c37-e52b-4c15-811e-8d02f970d5f2',
+  answer: 'Te comparto las siguientes opciones:\n' +
+    '👉 *Precio* para conocer nuestras promociones\n' +
+    '👉 *Yape* para saber el número de pago\n' +
+    '👉 *Finalizar* para completar tu compra',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 500,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ca5f551f261b4c5e36eb4ae2ccee1873'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51947359622@s.whatsapp.net',
+    fromMe: false,
+    id: '3AA2F5E851002DF6306C',
+    participant: undefined
+  },
+  messageTimestamp: 1725395622,
+  pushName: 'Fernando Sevillano',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '51947359622'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_69d06790-11ca-4a19-80df-f61328273cbf',
+  keyword: 'ans_58301049-cde3-42ac-9d0c-87f5c64c65e2',
+  answer: 'Nota: Por favor, utiliza solo las palabras clave mencionadas. Si necesitas más ayuda, comunícate con nosotros al +51 947 359 622.\n' +
+    '\n' +
+    'Si deseas volver al menú principal, escribe *menu* después de seleccionar una opción.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1000,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c9de6be1e71056741f5082e06df9e84c'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51947359622@s.whatsapp.net',
+    fromMe: false,
+    id: '3ADAA58DC16EF3217EAE',
+    participant: undefined
+  },
+  messageTimestamp: 1725395629,
+  pushName: 'Fernando Sevillano',
+  broadcast: false,
+  message: Message {
+    conversation: 'menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'menu',
+  from: '51947359622'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f03b5c37-e52b-4c15-811e-8d02f970d5f2',
+  keyword: 'key_d17c9a5d-7d6c-4754-bacf-7327c6dd990e',
+  answer: '🙌 ¡Hola! Bienvenido a TOP 1 MATERIAL PUCP💯👌.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 500,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '384beaa082ef79a01f010733f5970d77'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_58301049-cde3-42ac-9d0c-87f5c64c65e2',
+  keyword: 'ans_f03b5c37-e52b-4c15-811e-8d02f970d5f2',
+  answer: 'Te comparto las siguientes opciones:\n' +
+    '👉 *Precio* para conocer nuestras promociones\n' +
+    '👉 *Yape* para saber el número de pago\n' +
+    '👉 *Finalizar* para completar tu compra',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 500,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ca5f551f261b4c5e36eb4ae2ccee1873'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51947359622@s.whatsapp.net',
+    fromMe: false,
+    id: '3A0D2AB795B4F1320EBD',
+    participant: undefined
+  },
+  messageTimestamp: 1725395635,
+  pushName: 'Fernando Sevillano',
+  broadcast: false,
+  message: Message {
+    conversation: 'Precio',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Precio',
+  from: '51947359622'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_69d06790-11ca-4a19-80df-f61328273cbf',
+  keyword: 'ans_58301049-cde3-42ac-9d0c-87f5c64c65e2',
+  answer: 'Nota: Por favor, utiliza solo las palabras clave mencionadas. Si necesitas más ayuda, comunícate con nosotros al +51 947 359 622.\n' +
+    '\n' +
+    'Si deseas volver al menú principal, escribe *menu* después de seleccionar una opción.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1000,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c9de6be1e71056741f5082e06df9e84c'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51947359622@s.whatsapp.net',
+    fromMe: false,
+    id: '3A2B0315081D1E611BD5',
+    participant: undefined
+  },
+  messageTimestamp: 1725395646,
+  pushName: 'Fernando Sevillano',
+  broadcast: false,
+  message: Message {
+    conversation: 'menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'menu',
+  from: '51947359622'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f03b5c37-e52b-4c15-811e-8d02f970d5f2',
+  keyword: 'key_d17c9a5d-7d6c-4754-bacf-7327c6dd990e',
+  answer: '🙌 ¡Hola! Bienvenido a TOP 1 MATERIAL PUCP💯👌.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 500,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '384beaa082ef79a01f010733f5970d77'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_58301049-cde3-42ac-9d0c-87f5c64c65e2',
+  keyword: 'ans_f03b5c37-e52b-4c15-811e-8d02f970d5f2',
+  answer: 'Te comparto las siguientes opciones:\n' +
+    '👉 *Precio* para conocer nuestras promociones\n' +
+    '👉 *Yape* para saber el número de pago\n' +
+    '👉 *Finalizar* para completar tu compra',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 500,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ca5f551f261b4c5e36eb4ae2ccee1873'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51947359622@s.whatsapp.net',
+    fromMe: false,
+    id: '3A5725ADCFD491C65900',
+    participant: undefined
+  },
+  messageTimestamp: 1725395651,
+  pushName: 'Fernando Sevillano',
+  broadcast: false,
+  message: Message {
+    conversation: 'Yape',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Yape',
+  from: '51947359622'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_69d06790-11ca-4a19-80df-f61328273cbf',
+  keyword: 'ans_58301049-cde3-42ac-9d0c-87f5c64c65e2',
+  answer: 'Nota: Por favor, utiliza solo las palabras clave mencionadas. Si necesitas más ayuda, comunícate con nosotros al +51 947 359 622.\n' +
+    '\n' +
+    'Si deseas volver al menú principal, escribe *menu* después de seleccionar una opción.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1000,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c9de6be1e71056741f5082e06df9e84c'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51947359622@s.whatsapp.net',
+    fromMe: false,
+    id: '3A5797422C5E06255608',
+    participant: undefined
+  },
+  messageTimestamp: 1725395656,
+  pushName: 'Fernando Sevillano',
+  broadcast: false,
+  message: Message {
+    conversation: 'menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'menu',
+  from: '51947359622'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f03b5c37-e52b-4c15-811e-8d02f970d5f2',
+  keyword: 'key_d17c9a5d-7d6c-4754-bacf-7327c6dd990e',
+  answer: '🙌 ¡Hola! Bienvenido a TOP 1 MATERIAL PUCP💯👌.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 500,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '384beaa082ef79a01f010733f5970d77'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_58301049-cde3-42ac-9d0c-87f5c64c65e2',
+  keyword: 'ans_f03b5c37-e52b-4c15-811e-8d02f970d5f2',
+  answer: 'Te comparto las siguientes opciones:\n' +
+    '👉 *Precio* para conocer nuestras promociones\n' +
+    '👉 *Yape* para saber el número de pago\n' +
+    '👉 *Finalizar* para completar tu compra',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 500,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ca5f551f261b4c5e36eb4ae2ccee1873'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51947359622@s.whatsapp.net',
+    fromMe: false,
+    id: '3AE6437845251C47F25F',
+    participant: undefined
+  },
+  messageTimestamp: 1725395664,
+  pushName: 'Fernando Sevillano',
+  broadcast: false,
+  message: Message {
+    conversation: 'Finalizar',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Finalizar',
+  from: '51947359622'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_69d06790-11ca-4a19-80df-f61328273cbf',
+  keyword: 'ans_58301049-cde3-42ac-9d0c-87f5c64c65e2',
+  answer: 'Nota: Por favor, utiliza solo las palabras clave mencionadas. Si necesitas más ayuda, comunícate con nosotros al +51 947 359 622.\n' +
+    '\n' +
+    'Si deseas volver al menú principal, escribe *menu* después de seleccionar una opción.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1000,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c9de6be1e71056741f5082e06df9e84c'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51980701247@s.whatsapp.net',
+    fromMe: false,
+    id: '3A2D14BE6436B826055A',
+    participant: undefined
+  },
+  messageTimestamp: 1725395899,
+  pushName: 'Kiara Muñoz',
+  broadcast: false,
+  message: Message {
+    conversation: 'holaa',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'holaa',
+  from: '51980701247'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f03b5c37-e52b-4c15-811e-8d02f970d5f2',
+  keyword: 'key_d17c9a5d-7d6c-4754-bacf-7327c6dd990e',
+  answer: '🙌 ¡Hola! Bienvenido a TOP 1 MATERIAL PUCP💯👌.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 500,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '384beaa082ef79a01f010733f5970d77'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_58301049-cde3-42ac-9d0c-87f5c64c65e2',
+  keyword: 'ans_f03b5c37-e52b-4c15-811e-8d02f970d5f2',
+  answer: 'Te comparto las siguientes opciones:\n' +
+    '👉 *Precio* para conocer nuestras promociones\n' +
+    '👉 *Yape* para saber el número de pago\n' +
+    '👉 *Finalizar* para completar tu compra',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 500,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ca5f551f261b4c5e36eb4ae2ccee1873'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51980701247@s.whatsapp.net',
+    fromMe: false,
+    id: '3AAE484C37FA21550AD5',
+    participant: undefined
+  },
+  messageTimestamp: 1725395905,
+  pushName: 'Kiara Muñoz',
+  broadcast: false,
+  message: Message {
+    conversation: 'precio',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'precio',
+  from: '51980701247'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_69d06790-11ca-4a19-80df-f61328273cbf',
+  keyword: 'ans_58301049-cde3-42ac-9d0c-87f5c64c65e2',
+  answer: 'Nota: Por favor, utiliza solo las palabras clave mencionadas. Si necesitas más ayuda, comunícate con nosotros al +51 947 359 622.\n' +
+    '\n' +
+    'Si deseas volver al menú principal, escribe *menu* después de seleccionar una opción.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1000,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c9de6be1e71056741f5082e06df9e84c'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51980701247@s.whatsapp.net',
+    fromMe: false,
+    id: '3AA68A2E9865294E3CAB',
+    participant: undefined
+  },
+  messageTimestamp: 1725395936,
+  pushName: 'Kiara Muñoz',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'yape', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'yape',
+  from: '51980701247'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f03b5c37-e52b-4c15-811e-8d02f970d5f2',
+  keyword: 'key_d17c9a5d-7d6c-4754-bacf-7327c6dd990e',
+  answer: '🙌 ¡Hola! Bienvenido a TOP 1 MATERIAL PUCP💯👌.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 500,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '384beaa082ef79a01f010733f5970d77'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_58301049-cde3-42ac-9d0c-87f5c64c65e2',
+  keyword: 'ans_f03b5c37-e52b-4c15-811e-8d02f970d5f2',
+  answer: 'Te comparto las siguientes opciones:\n' +
+    '👉 *Precio* para conocer nuestras promociones\n' +
+    '👉 *Yape* para saber el número de pago\n' +
+    '👉 *Finalizar* para completar tu compra',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 500,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ca5f551f261b4c5e36eb4ae2ccee1873'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51980701247@s.whatsapp.net',
+    fromMe: false,
+    id: '3AEE6FFC2A0D13AE36DE',
+    participant: undefined
+  },
+  messageTimestamp: 1725395942,
+  pushName: 'Kiara Muñoz',
+  broadcast: false,
+  message: Message {
+    conversation: 'yape',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'yape',
+  from: '51980701247'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_69d06790-11ca-4a19-80df-f61328273cbf',
+  keyword: 'ans_58301049-cde3-42ac-9d0c-87f5c64c65e2',
+  answer: 'Nota: Por favor, utiliza solo las palabras clave mencionadas. Si necesitas más ayuda, comunícate con nosotros al +51 947 359 622.\n' +
+    '\n' +
+    'Si deseas volver al menú principal, escribe *menu* después de seleccionar una opción.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1000,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c9de6be1e71056741f5082e06df9e84c'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51947359622@s.whatsapp.net',
+    fromMe: false,
+    id: '6A38EB3CE8304422C7',
+    participant: undefined
+  },
+  messageTimestamp: 1725405020,
+  pushName: 'Fernando Sevillano',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Informacion de mate 2',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Informacion de mate 2',
+  from: '51947359622'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f03b5c37-e52b-4c15-811e-8d02f970d5f2',
+  keyword: 'key_d17c9a5d-7d6c-4754-bacf-7327c6dd990e',
+  answer: '🙌 ¡Hola! Bienvenido a TOP 1 MATERIAL PUCP💯👌.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 500,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '384beaa082ef79a01f010733f5970d77'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_58301049-cde3-42ac-9d0c-87f5c64c65e2',
+  keyword: 'ans_f03b5c37-e52b-4c15-811e-8d02f970d5f2',
+  answer: 'Te comparto las siguientes opciones:\n' +
+    '👉 *Precio* para conocer nuestras promociones\n' +
+    '👉 *Yape* para saber el número de pago\n' +
+    '👉 *Finalizar* para completar tu compra',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 500,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ca5f551f261b4c5e36eb4ae2ccee1873'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51947359622@s.whatsapp.net',
+    fromMe: false,
+    id: '89AAD5B4405F4BE470',
+    participant: undefined
+  },
+  messageTimestamp: 1725405030,
+  pushName: 'Fernando Sevillano',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'Precio', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Precio',
+  from: '51947359622'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_69d06790-11ca-4a19-80df-f61328273cbf',
+  keyword: 'ans_58301049-cde3-42ac-9d0c-87f5c64c65e2',
+  answer: 'Nota: Por favor, utiliza solo las palabras clave mencionadas. Si necesitas más ayuda, comunícate con nosotros al +51 947 359 622.\n' +
+    '\n' +
+    'Si deseas volver al menú principal, escribe *menu* después de seleccionar una opción.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1000,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c9de6be1e71056741f5082e06df9e84c'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51947359622@s.whatsapp.net',
+    fromMe: false,
+    id: '5375E895C139CCA99D',
+    participant: undefined
+  },
+  messageTimestamp: 1725405055,
+  pushName: 'Fernando Sevillano',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'menu', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'menu',
+  from: '51947359622'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f03b5c37-e52b-4c15-811e-8d02f970d5f2',
+  keyword: 'key_d17c9a5d-7d6c-4754-bacf-7327c6dd990e',
+  answer: '🙌 ¡Hola! Bienvenido a TOP 1 MATERIAL PUCP💯👌.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 500,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '384beaa082ef79a01f010733f5970d77'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_58301049-cde3-42ac-9d0c-87f5c64c65e2',
+  keyword: 'ans_f03b5c37-e52b-4c15-811e-8d02f970d5f2',
+  answer: 'Te comparto las siguientes opciones:\n' +
+    '👉 *Precio* para conocer nuestras promociones\n' +
+    '👉 *Yape* para saber el número de pago\n' +
+    '👉 *Finalizar* para completar tu compra',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 500,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ca5f551f261b4c5e36eb4ae2ccee1873'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51947359622@s.whatsapp.net',
+    fromMe: false,
+    id: '0B41B6B60A2250AFAD',
+    participant: undefined
+  },
+  messageTimestamp: 1725405065,
+  pushName: 'Fernando Sevillano',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'yape', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'yape',
+  from: '51947359622'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_69d06790-11ca-4a19-80df-f61328273cbf',
+  keyword: 'ans_58301049-cde3-42ac-9d0c-87f5c64c65e2',
+  answer: 'Nota: Por favor, utiliza solo las palabras clave mencionadas. Si necesitas más ayuda, comunícate con nosotros al +51 947 359 622.\n' +
+    '\n' +
+    'Si deseas volver al menú principal, escribe *menu* después de seleccionar una opción.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1000,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c9de6be1e71056741f5082e06df9e84c'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51947359622@s.whatsapp.net',
+    fromMe: false,
+    id: 'E404EBD33FD0F7AF2C',
+    participant: undefined
+  },
+  messageTimestamp: 1725405075,
+  pushName: 'Fernando Sevillano',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'menu', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'menu',
+  from: '51947359622'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f03b5c37-e52b-4c15-811e-8d02f970d5f2',
+  keyword: 'key_d17c9a5d-7d6c-4754-bacf-7327c6dd990e',
+  answer: '🙌 ¡Hola! Bienvenido a TOP 1 MATERIAL PUCP💯👌.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 500,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '384beaa082ef79a01f010733f5970d77'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_58301049-cde3-42ac-9d0c-87f5c64c65e2',
+  keyword: 'ans_f03b5c37-e52b-4c15-811e-8d02f970d5f2',
+  answer: 'Te comparto las siguientes opciones:\n' +
+    '👉 *Precio* para conocer nuestras promociones\n' +
+    '👉 *Yape* para saber el número de pago\n' +
+    '👉 *Finalizar* para completar tu compra',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 500,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ca5f551f261b4c5e36eb4ae2ccee1873'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51947359622@s.whatsapp.net',
+    fromMe: false,
+    id: 'A68E276A40CCC2A3FB',
+    participant: undefined
+  },
+  messageTimestamp: 1725405083,
+  pushName: 'Fernando Sevillano',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'finalizar',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'finalizar',
+  from: '51947359622'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_69d06790-11ca-4a19-80df-f61328273cbf',
+  keyword: 'ans_58301049-cde3-42ac-9d0c-87f5c64c65e2',
+  answer: 'Nota: Por favor, utiliza solo las palabras clave mencionadas. Si necesitas más ayuda, comunícate con nosotros al +51 947 359 622.\n' +
+    '\n' +
+    'Si deseas volver al menú principal, escribe *menu* después de seleccionar una opción.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1000,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c9de6be1e71056741f5082e06df9e84c'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51945242241@s.whatsapp.net',
+    fromMe: false,
+    id: '6BAF715E9AE38D8201FB06EAFBDE80FB',
+    participant: undefined
+  },
+  messageTimestamp: 1725407424,
+  pushName: 'Selena',
+  broadcast: false,
+  message: Message {
+    conversation: 'Cómo estás bb',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Cómo estás bb',
+  from: '51945242241'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f03b5c37-e52b-4c15-811e-8d02f970d5f2',
+  keyword: 'key_d17c9a5d-7d6c-4754-bacf-7327c6dd990e',
+  answer: '🙌 ¡Hola! Bienvenido a TOP 1 MATERIAL PUCP💯👌.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 500,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '384beaa082ef79a01f010733f5970d77'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_58301049-cde3-42ac-9d0c-87f5c64c65e2',
+  keyword: 'ans_f03b5c37-e52b-4c15-811e-8d02f970d5f2',
+  answer: 'Te comparto las siguientes opciones:\n' +
+    '👉 *Precio* para conocer nuestras promociones\n' +
+    '👉 *Yape* para saber el número de pago\n' +
+    '👉 *Finalizar* para completar tu compra',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 500,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ca5f551f261b4c5e36eb4ae2ccee1873'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51945242241@s.whatsapp.net',
+    fromMe: false,
+    id: '940E67F5E16E8867BA3C8330E087F263',
+    participant: undefined
+  },
+  messageTimestamp: 1725407435,
+  pushName: 'Selena',
+  broadcast: false,
+  message: Message {
+    conversation: 'Precio',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Precio',
+  from: '51945242241'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_69d06790-11ca-4a19-80df-f61328273cbf',
+  keyword: 'ans_58301049-cde3-42ac-9d0c-87f5c64c65e2',
+  answer: 'Nota: Por favor, utiliza solo las palabras clave mencionadas. Si necesitas más ayuda, comunícate con nosotros al +51 947 359 622.\n' +
+    '\n' +
+    'Si deseas volver al menú principal, escribe *menu* después de seleccionar una opción.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1000,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c9de6be1e71056741f5082e06df9e84c'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51945242241@s.whatsapp.net',
+    fromMe: false,
+    id: '4B9116227C12937D1DF86B6F9C245274',
+    participant: undefined
+  },
+  messageTimestamp: 1725407445,
+  pushName: 'Selena',
+  broadcast: false,
+  message: Message {
+    conversation: 'Menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Menu',
+  from: '51945242241'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f03b5c37-e52b-4c15-811e-8d02f970d5f2',
+  keyword: 'key_d17c9a5d-7d6c-4754-bacf-7327c6dd990e',
+  answer: '🙌 ¡Hola! Bienvenido a TOP 1 MATERIAL PUCP💯👌.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 500,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '384beaa082ef79a01f010733f5970d77'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_58301049-cde3-42ac-9d0c-87f5c64c65e2',
+  keyword: 'ans_f03b5c37-e52b-4c15-811e-8d02f970d5f2',
+  answer: 'Te comparto las siguientes opciones:\n' +
+    '👉 *Precio* para conocer nuestras promociones\n' +
+    '👉 *Yape* para saber el número de pago\n' +
+    '👉 *Finalizar* para completar tu compra',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 500,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ca5f551f261b4c5e36eb4ae2ccee1873'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51945242241@s.whatsapp.net',
+    fromMe: false,
+    id: '2C50BC6C084D89B1767C5003561514C9',
+    participant: undefined
+  },
+  messageTimestamp: 1725407454,
+  pushName: 'Selena',
+  broadcast: false,
+  message: Message {
+    conversation: 'Yape',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Yape',
+  from: '51945242241'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_69d06790-11ca-4a19-80df-f61328273cbf',
+  keyword: 'ans_58301049-cde3-42ac-9d0c-87f5c64c65e2',
+  answer: 'Nota: Por favor, utiliza solo las palabras clave mencionadas. Si necesitas más ayuda, comunícate con nosotros al +51 947 359 622.\n' +
+    '\n' +
+    'Si deseas volver al menú principal, escribe *menu* después de seleccionar una opción.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1000,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c9de6be1e71056741f5082e06df9e84c'
+}
